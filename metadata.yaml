@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41833
     wikipedia: http://en.wikipedia.org/wiki/August_Mau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42715#Pompeii-Its-Life-and-Art
 gutenberg_issued: '2013-05-16'
 gutenberg_type: Text
 identifiers:
